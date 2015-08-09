@@ -1,16 +1,16 @@
 {  
     "repo":{
 	"categories":{
-		1:{
+		"1":{
 			"name":"cat 1",
 		},
-		2:{
+		"2":{
 			"name": "cat 2"
 		},
-		3:{
+		"3":{
 			"name": "cat 3"
 		}
-}
+},
         "name":"RepoName",
         "desc":"TestRepo",
         "img":"http://inocydia.github.io/img/logo1.jpeg",
