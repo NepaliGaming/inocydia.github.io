@@ -4,17 +4,17 @@
 		"1":{
 			"name":"cat 1",
         		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 1",
+        		"desc":"Test Category 1"
 		},
 		"2":{
 			"name":"cat 2",
         		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 2",
+        		"desc":"Test Category 2"
 		},
 		"3":{
 			"name":"cat 3",
         		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 3",
+        		"desc":"Test Category 3"
 		}
 },
         "name":"RepoName",
