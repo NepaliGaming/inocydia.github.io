@@ -2,13 +2,19 @@
     "repo":{
 	"categories":{
 		"1":{
-			"name":"cat 1"
+			"name":"cat 1",
+        		"img":"http://inocydia.github.io/img/logo1.jpeg",
+        		"desc":"Test Category 1",
 		},
 		"2":{
-			"name": "cat 2"
+			"name":"cat 2",
+        		"img":"http://inocydia.github.io/img/logo1.jpeg",
+        		"desc":"Test Category 2",
 		},
 		"3":{
-			"name": "cat 3"
+			"name":"cat 3",
+        		"img":"http://inocydia.github.io/img/logo1.jpeg",
+        		"desc":"Test Category 3",
 		}
 },
         "name":"RepoName",
@@ -18,21 +24,21 @@
                 "name": "AppName1",
                 "desc":"Testapp",
                 "cat":"1",
-                "img":"inocydia.net/images/logo2.jpeg",
+                "img":"http://inocydia.net/images/logo2.jpeg",
                 "url":"google.com"
             },
             {
                 "name": "Tweakname1",  
                 "desc":"Testtweak",
                 "cat":"2",
-                "img":"inocydia.net/images/logo2.jpeg",
+                "img":"http://inocydia.net/images/logo2.jpeg",
                 "url":"yahoo.com"
             },
             {
                 "name": "Themename",
                 "desc":"Testtheme",
                 "cat":"3",
-                "img":"inocydia.net/images/logo2.jpeg",
+                "img":"http://inocydia.net/images/logo2.jpeg",
                 "url":"bing.com"
             }]
         }
