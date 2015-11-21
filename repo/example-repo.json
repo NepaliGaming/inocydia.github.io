@@ -18,7 +18,7 @@
 		}
 },
         "name":"RepoName",
-        "desc":"TestRepo",
+        "desc":"<b>TestRepo</b>",
         "img":"http://inocydia.github.io/img/logo1.jpeg",
         "content":[{
                 "name": "AppName1",
