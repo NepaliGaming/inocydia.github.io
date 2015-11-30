@@ -1,45 +1,33 @@
 {  
-    "repo":{
-	"categories":{
-		"1":{
-			"name":"cat 1",
-        		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 1"
-		},
-		"2":{
-			"name":"cat 2",
-        		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 2"
-		},
-		"3":{
-			"name":"cat 3",
-        		"img":"http://inocydia.github.io/img/logo1.jpeg",
-        		"desc":"Test Category 3"
-		}
-},
-        "name":"RepoName",
-        "desc":"<b>TestRepo</b>",
-        "img":"http://inocydia.github.io/img/logo1.jpeg",
-        "content":[{
-                "name": "AppName1",
-                "desc":"Testapp",
-                "cat":"1",
-                "img":"http://inocydia.net/images/logo2.jpeg",
-                "url":"google.com"
-            },
-            {
-                "name": "Tweakname1",  
-                "desc":"Testtweak",
-                "cat":"2",
-                "img":"http://inocydia.net/images/logo2.jpeg",
-                "url":"yahoo.com"
-            },
-            {
-                "name": "Themename",
-                "desc":"Testtheme",
-                "cat":"3",
-                "img":"http://inocydia.net/images/logo2.jpeg",
-                "url":"bing.com"
-            }]
-        }
-    }
+  "repository":
+  {
+    "name":"iNoCydia Repo",
+    "maintainer": "iNoCydia",
+    "website": "//inocydia.net",
+    "description":"Example Repo JSON",
+    "icon":"https://inocydia.github.io/img/inclink.jpg",
+    "packages":
+     [
+      {
+        "id": "net.inocydia.oldapp",
+        "name": "Old iNoCydia App",
+        "version": "3.1",
+        "author": "TheFearlessNerds",
+        "description": "The old iNoCydia app.",
+        "info": "https://inocydia.net/",
+        "link": "https://inocydia.net/nologin/",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      },
+      {
+        "id": "org.tfn.blog",
+        "name": "tfn blog",
+        "version": "1.0",
+        "author": "TheFearlessNerds",
+        "description": "TFN's blog.",
+        "info": "https://thefearlessnerds.org/",
+        "link": "http://blog.thefearlessnerds.org",
+        "icon": "https://inocydia.github.io/img/inclink.jpg"
+      }
+    ]
+  }
+}
