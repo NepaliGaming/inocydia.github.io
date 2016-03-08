@@ -1,0 +1,23 @@
+{  
+  "repository":
+  {
+    "name":"NepaliGaming",
+    "maintainer": "Siddartha Nepal",
+    "website": "http://nepaligaming.weebly.com",
+    "description":"NepaliGaming Repo",
+    "icon":"https://inocydia.github.io/img/inclink.jpg",
+    "packages":
+     [
+      {
+        "id": "com.airshou.app",
+        "name": "AirShou",
+        "version": "25",
+        "author": "Shou.TV",
+        "description": "iOS 9+ screen recorder.",
+        "info": "https://shou.tv/airshou",
+        "link": "https://shou.tv/a",
+        "icon": "https://shou.tv/air_shou.png"
+      },
+    ]
+  }
+}
